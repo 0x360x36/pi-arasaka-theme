@@ -1,0 +1,17 @@
+{
+  "name": "pi-theme-arasaka",
+  "version": "0.0.1",
+  "description": "Arasaka Corporation interface theme for Pi Agent",
+  "main": "",
+  "keywords": [
+    "pi-agent",
+    "theme"
+  ],
+  "author": "0x360x36",
+  "license": "MIT",
+  "pi": {
+    "themes": [
+      "themes/arasaka.json"
+    ]
+  }
+}
