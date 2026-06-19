@@ -1,9 +1,4 @@
-                               _                       _    
-                              | |                     | |   
-     ___ _ __ __ _ _ __   ___ | |__   ___   __ _ _ __ | | __
-    / __| '__/ _` | '_ \ / _ \| '_ \ / _ \ / _` | '_ \| |/ /
-   | (__| | | (_| | | | | (_) | |_) | (_) | (_| | | | |   <
-    \___|_|  \__,_|_| |_|\___/|_.__/ \___/ \__,_|_| |_|_|\_\
+# pi-arasaka-theme
 
 Tema oscuro cyberpunk para [Pi Agent](https://github.com/earendil-works/pi),
 inspirado en la paleta corporativa de __Arasaka Corporation__ del universo
